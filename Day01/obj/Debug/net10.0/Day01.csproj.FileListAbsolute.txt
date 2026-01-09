@@ -1,0 +1,15 @@
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/bin/Debug/net10.0/Day01
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/bin/Debug/net10.0/Day01.deps.json
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/bin/Debug/net10.0/Day01.runtimeconfig.json
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/bin/Debug/net10.0/Day01.dll
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/bin/Debug/net10.0/Day01.pdb
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/obj/Debug/net10.0/Day01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/obj/Debug/net10.0/Day01.AssemblyInfoInputs.cache
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/obj/Debug/net10.0/Day01.AssemblyInfo.cs
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/obj/Debug/net10.0/Day01.csproj.CoreCompileInputs.cache
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/obj/Debug/net10.0/Day01.sourcelink.json
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/obj/Debug/net10.0/Day01.dll
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/obj/Debug/net10.0/refint/Day01.dll
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/obj/Debug/net10.0/Day01.pdb
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/obj/Debug/net10.0/Day01.genruntimeconfig.cache
+/Users/ashleyfletcher/Desktop/Advent-of-Code-2025/Day01/obj/Debug/net10.0/ref/Day01.dll
